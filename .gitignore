@@ -73,3 +73,6 @@ Thumbs.db
 
 # Coverage directory
 /coverage
+
+# Lambdas
+!lambda/*.js
